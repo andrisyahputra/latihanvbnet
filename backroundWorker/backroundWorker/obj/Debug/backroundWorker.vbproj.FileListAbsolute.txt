@@ -1,0 +1,13 @@
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\bin\Debug\backroundWorker.exe.config
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\bin\Debug\backroundWorker.exe
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\bin\Debug\backroundWorker.pdb
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\bin\Debug\backroundWorker.xml
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.Form1.resources
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.Resources.resources
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.exe
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.xml
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.pdb
+C:\Users\Andri Syahputra\source\repos\backroundWorker\backroundWorker\obj\Debug\backroundWorker.FormExcelFix.resources

@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A4F9FD40-D649-4D19-B3AC-C13AE876E5E4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AppTes.My.MyApplication</StartupObject>
+    <RootNamespace>AppTes</RootNamespace>
+    <AssemblyName>AppTes</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AppTes.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AppTes.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CaseElseStatement.Designer.vb">
+      <DependentUpon>CaseElseStatement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaseElseStatement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassVariabel.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArray.Designer.vb">
+      <DependentUpon>FormArray.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormArray.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormColorChangeDisableEnable.Designer.vb">
+      <DependentUpon>FormColorChangeDisableEnable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormColorChangeDisableEnable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGetTimeDate.Designer.vb">
+      <DependentUpon>FormGetTimeDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormGetTimeDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHandleErorDgnTry.Designer.vb">
+      <DependentUpon>FormHandleErorDgnTry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormHandleErorDgnTry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLooping.Designer.vb">
+      <DependentUpon>FormLooping.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLooping.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser.Designer.vb">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVariabel.Designer.vb">
+      <DependentUpon>FormVariabel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormVariabel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionDanParameter.Designer.vb">
+      <DependentUpon>FunctionDanParameter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionDanParameter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoopingDoWhile.Designer.vb">
+      <DependentUpon>LoopingDoWhile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoopingDoWhile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OperatorDanExpresi.Designer.vb">
+      <DependentUpon>OperatorDanExpresi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OperatorDanExpresi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveDataGunakanDataBinding.Designer.vb">
+      <DependentUpon>SaveDataGunakanDataBinding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SaveDataGunakanDataBinding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidasiKarakter.Designer.vb">
+      <DependentUpon>ValidasiKarakter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ValidasiKarakter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidasiNumber.Designer.vb">
+      <DependentUpon>ValidasiNumber.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ValidasiNumber.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CaseElseStatement.resx">
+      <DependentUpon>CaseElseStatement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormArray.resx">
+      <DependentUpon>FormArray.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormColorChangeDisableEnable.resx">
+      <DependentUpon>FormColorChangeDisableEnable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGetTimeDate.resx">
+      <DependentUpon>FormGetTimeDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHandleErorDgnTry.resx">
+      <DependentUpon>FormHandleErorDgnTry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLooping.resx">
+      <DependentUpon>FormLooping.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser.resx">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVariabel.resx">
+      <DependentUpon>FormVariabel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionDanParameter.resx">
+      <DependentUpon>FunctionDanParameter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoopingDoWhile.resx">
+      <DependentUpon>LoopingDoWhile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperatorDanExpresi.resx">
+      <DependentUpon>OperatorDanExpresi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveDataGunakanDataBinding.resx">
+      <DependentUpon>SaveDataGunakanDataBinding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidasiKarakter.resx">
+      <DependentUpon>ValidasiKarakter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidasiNumber.resx">
+      <DependentUpon>ValidasiNumber.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="asset\search %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,53 @@
+﻿INSERT INTO `amt`(`id`, `rfid`, `nopol`, `perusahaan`, `lokasi`, `nik_amt1`, `nama_amt1`, `ksong1`, `tempat_lahir1`, `tgl_lahir1`, `usia1`, `nik_amt2`, `nama_amt2`, `tempat_lahir2`, `tgl_lahir2`, `usia2`, `nik_amt3`, `nama_amt3`, `tempat_lahir3`, `tgl_lahir3`, `usia3`, `transportir`) VALUES ('','r(1).toString','r(2).toString','r(3).toString','r(4).toString','r(5).toString','r(6).toString','r(7).toString','r(8).toString','r(9).toString','r(10).toString','r(11).toString','r(12).toString','r(13).toString','r(14).toString','r(15).toString','r(16).toString','r(17).toString','r(18).toString','r(19).toString','r(20).toString','r(21).toString','r(22).toString')
+
+r(0).toString
+r(1).toString
+r(2).toString
+r(3).toString
+r(4).toString
+r(5).toString
+r(6).toString
+r(7).toString
+r(8).toString
+r(9).toString
+r(10).toString
+r(11).toString
+r(12).toString
+r(13).toString
+r(14).toString
+r(15).toString
+r(16).toString
+r(17).toString
+r(18).toString
+r(19).toString
+r(20).toString
+r(21).toString
+r(22).toString
+
+No.	RFID
+NOPOL
+Perusahaan
+Lokasi
+AWAK MOBIL TANGKI 1
+AWAK MOBIL TANGKI 2
+AWAK MOBIL CADANGAN
+NIK AMT
+Nama AMT
+Tempat Lahir
+Tanggal Lahir
+USIA
+NIK AMT
+Nama AMT
+Tempat Lahir
+Tanggal Lahir
+USIA
+NIK AMT
+Nama AMT
+Tempat Lahir
+Tanggal Lahir
+USIA
+Transportir
+                    		
+
+
+

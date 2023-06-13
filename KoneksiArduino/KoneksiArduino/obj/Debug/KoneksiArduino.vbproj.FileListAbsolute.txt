@@ -1,0 +1,14 @@
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\bin\Debug\KoneksiArduino.exe.config
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\bin\Debug\KoneksiArduino.exe
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\bin\Debug\KoneksiArduino.pdb
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\bin\Debug\KoneksiArduino.xml
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.Form1.resources
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.Resources.resources
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.exe
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.xml
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.pdb
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.FormArduino.resources
+C:\Users\Andri Syahputra\source\repos\KoneksiArduino\KoneksiArduino\obj\Debug\KoneksiArduino.FormKomunikasi.resources

@@ -1,0 +1,15 @@
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\bin\Debug\Connect mysql.exe.config
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\bin\Debug\Connect mysql.exe
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\bin\Debug\Connect mysql.pdb
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\bin\Debug\Connect mysql.xml
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\bin\Debug\MySql.Data.dll
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect mysql.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect_mysql.Form1.resources
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect_mysql.Resources.resources
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect mysql.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect mysql.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect mysql.vbproj.CopyComplete
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect mysql.exe
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect mysql.xml
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Connect mysql\obj\Debug\Connect mysql.pdb

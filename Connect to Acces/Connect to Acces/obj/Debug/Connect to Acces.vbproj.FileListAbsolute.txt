@@ -1,0 +1,12 @@
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\bin\Debug\Connect to Acces.exe.config
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\bin\Debug\Connect to Acces.exe
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\bin\Debug\Connect to Acces.pdb
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\bin\Debug\Connect to Acces.xml
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\obj\Debug\Connect to Acces.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\obj\Debug\Connect_to_Acces.Form1.resources
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\obj\Debug\Connect_to_Acces.Resources.resources
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\obj\Debug\Connect to Acces.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\obj\Debug\Connect to Acces.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\obj\Debug\Connect to Acces.exe
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\obj\Debug\Connect to Acces.xml
+C:\Users\Andri Syahputra\source\repos\Connect to Acces\Connect to Acces\obj\Debug\Connect to Acces.pdb

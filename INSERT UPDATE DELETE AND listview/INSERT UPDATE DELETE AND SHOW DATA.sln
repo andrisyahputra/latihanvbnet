@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "INSERT UPDATE DELETE AND SHOW DATA", "INSERT UPDATE DELETE AND SHOW DATA\INSERT UPDATE DELETE AND SHOW DATA.vbproj", "{7BBC2D7D-1900-47CE-8C55-71CB5ED2A2A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBC2D7D-1900-47CE-8C55-71CB5ED2A2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBC2D7D-1900-47CE-8C55-71CB5ED2A2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBC2D7D-1900-47CE-8C55-71CB5ED2A2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBC2D7D-1900-47CE-8C55-71CB5ED2A2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F7C7A3-0636-4CE7-9A03-9BD5AA33FCB0}
+	EndGlobalSection
+EndGlobal

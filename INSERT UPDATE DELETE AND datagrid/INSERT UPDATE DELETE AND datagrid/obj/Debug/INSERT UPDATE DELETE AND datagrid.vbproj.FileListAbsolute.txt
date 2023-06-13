@@ -1,0 +1,32 @@
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\INSERT UPDATE DELETE AND datagrid.exe.config
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\INSERT UPDATE DELETE AND datagrid.exe
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\INSERT UPDATE DELETE AND datagrid.pdb
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\INSERT UPDATE DELETE AND datagrid.xml
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\MySql.Data.dll
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT_UPDATE_DELETE_AND_datagrid.Form1.resources
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT_UPDATE_DELETE_AND_datagrid.Resources.resources
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.vbproj.CopyComplete
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.exe
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.xml
+C:\Users\Andri Syahputra\source\repos\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.pdb
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT_UPDATE_DELETE_AND_datagrid.autoid.resources
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT_UPDATE_DELETE_AND_datagrid.Form1.resources
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT_UPDATE_DELETE_AND_datagrid.Resources.resources
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.exe
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.xml
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.pdb
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\INSERT UPDATE DELETE AND datagrid.exe.config
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\INSERT UPDATE DELETE AND datagrid.exe
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\INSERT UPDATE DELETE AND datagrid.pdb
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\INSERT UPDATE DELETE AND datagrid.xml
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\MySql.Data.dll
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT UPDATE DELETE AND datagrid.vbproj.CopyComplete
+C:\Users\Andri Syahputra\source\repos\Latihan\INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid\obj\Debug\INSERT_UPDATE_DELETE_AND_datagrid.FormInsertIMG.resources

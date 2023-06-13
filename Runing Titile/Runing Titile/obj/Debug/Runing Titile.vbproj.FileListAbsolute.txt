@@ -1,0 +1,25 @@
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\bin\Debug\Runing Titile.exe.config
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\bin\Debug\Runing Titile.exe
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\bin\Debug\Runing Titile.pdb
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\bin\Debug\Runing Titile.xml
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\obj\Debug\Runing Titile.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\obj\Debug\Runing_Titile.Form1.resources
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\obj\Debug\Runing_Titile.Resources.resources
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\obj\Debug\Runing Titile.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\obj\Debug\Runing Titile.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\obj\Debug\Runing Titile.exe
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\obj\Debug\Runing Titile.xml
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Runing Titile\obj\Debug\Runing Titile.pdb
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\bin\Debug\Runing Titile.exe.config
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\bin\Debug\Runing Titile.exe
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\bin\Debug\Runing Titile.pdb
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\bin\Debug\Runing Titile.xml
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing Titile.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing_Titile.Form1.resources
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing_Titile.FormTypingText.resources
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing_Titile.Resources.resources
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing Titile.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing Titile.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing Titile.exe
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing Titile.xml
+C:\Users\Andri Syahputra\source\repos\Latihan\Runing Titile\Runing Titile\obj\Debug\Runing Titile.pdb

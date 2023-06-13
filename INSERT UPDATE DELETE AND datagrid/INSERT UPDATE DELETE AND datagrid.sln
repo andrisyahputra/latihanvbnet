@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "INSERT UPDATE DELETE AND datagrid", "INSERT UPDATE DELETE AND datagrid\INSERT UPDATE DELETE AND datagrid.vbproj", "{067FA5D0-F8D7-441D-950F-C0EBC3E77BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067FA5D0-F8D7-441D-950F-C0EBC3E77BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067FA5D0-F8D7-441D-950F-C0EBC3E77BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067FA5D0-F8D7-441D-950F-C0EBC3E77BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067FA5D0-F8D7-441D-950F-C0EBC3E77BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E93EB77-E012-4FB4-983A-CE34F388A86F}
+	EndGlobalSection
+EndGlobal

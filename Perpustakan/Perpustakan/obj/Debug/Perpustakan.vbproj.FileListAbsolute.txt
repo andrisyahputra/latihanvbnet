@@ -1,0 +1,29 @@
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\bin\Debug\Perpustakan.exe.config
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\bin\Debug\Perpustakan.exe
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\bin\Debug\Perpustakan.pdb
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\bin\Debug\Perpustakan.xml
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\obj\Debug\Perpustakan.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\obj\Debug\Perpustakan.Login.resources
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\obj\Debug\Perpustakan.Resources.resources
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\obj\Debug\Perpustakan.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\obj\Debug\Perpustakan.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\obj\Debug\Perpustakan.exe
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\obj\Debug\Perpustakan.xml
+C:\Users\Andri Syahputra\AppData\Local\Temporary Projects\Perpustakan\obj\Debug\Perpustakan.pdb
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\bin\Debug\Perpustakan.exe.config
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\bin\Debug\Perpustakan.exe
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\bin\Debug\Perpustakan.pdb
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\bin\Debug\Perpustakan.xml
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.vbprojAssemblyReference.cache
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.Login.resources
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.Resources.resources
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.vbproj.GenerateResource.cache
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.vbproj.CoreCompileInputs.cache
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.exe
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.xml
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.pdb
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.Halaman.resources
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\bin\Debug\Perpustakan.exe.manifest
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\bin\Debug\Perpustakan.application
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.exe.manifest
+C:\Users\Andri Syahputra\source\repos\Perpustakan\Perpustakan\obj\Debug\Perpustakan.application
